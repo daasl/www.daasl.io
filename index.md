@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## About Daasl
+
+Headquartered in Seattle Washington, Daasl is a decentralized blockchain based software-as-a-service company aiming to accelerate the growth of the dApp ecosystem. Besides software development and DevOps services for dApps running on RChain and other blockchains, Daasl provides a unique alternative to centralized surveillance advertising. Specifically, Daasl’s tokenized APIs multiply the paths to dApp monetization and growth by delivering user preferred sponsored content, predictive analytics, and audited results. 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/daasl/www.daasl.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
