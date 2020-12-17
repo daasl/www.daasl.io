@@ -31,21 +31,21 @@ For end users, we give back the power to control personal data. They have comple
 ## Team
 We are a dedicated group of management professionals, with a proven track record of successfully managing world class companies.
 
-* [Steve Ross-Talbot](https://www.linkedin.com/in/stever1/) CEO/ Board Member
-* [Steve Henley](https://www.linkedin.com/in/stevehenley06/) Board Member
-* [Darryl Neudorf](https://www.linkedin.com/in/darryl-neudorf-1830077b/) Board Member
-* [Rao Bhamidipati](https://www.linkedin.com/in/vraobhamidipati/) Board Member
+* [Steve Ross-Talbot - ](https://www.linkedin.com/in/stever1/) CEO/ Board Member
+* [Steve Henley - ](https://www.linkedin.com/in/stevehenley06/) Board Member
+* [Darryl Neudorf - ](https://www.linkedin.com/in/darryl-neudorf-1830077b/) Board Member
+* [Rao Bhamidipati - ](https://www.linkedin.com/in/vraobhamidipati/) Board Member
 
 ## Advisers
-* [Greg Meredith](https://www.linkedin.com/in/lucius-meredith-547645/) Adviser/ Board Member
-* [Ian Bloom](https://www.linkedin.com/in/ian-bloom-5676315/) Adviser/ Board Member
+* [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) Adviser/ Board Member
+* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Adviser/ Board Member
 
 ## Financing
 Raise $10M
 
 ## Investment Offer
 * Equity Shares
-* DAASL Tokens (Tokens not offered at this time)
+* DAASL Tokens (tokens not offered at this time)
 * Both
 
 ## Asset Allocation
@@ -75,6 +75,13 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 * Brave Software, Inc
 * MediaOcean
 * Smaato
+
+## Whitepaper
+[DAASL Whitepaper (draft)](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-DRAFT-v1.pdf)
+
+
+## Pitch Deck
+[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/RChain%20Presentation%20Nov%202020%20V2_1.pptx)
 
 ## Contact
 invest@daasl.io
