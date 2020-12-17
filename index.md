@@ -45,7 +45,7 @@ Raise $10M
 
 ## Investment Offer
 * Equity Shares
-* DAASL Tokens
+* DAASL Tokens (Tokens not offered at this time)
 * Both
 
 ## Asset Allocation
