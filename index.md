@@ -68,7 +68,7 @@ RChain receives 5B DAASL tokens from DAASL in exchange for 15M DAASL shares.
 * US investors can only buy equity.
 
 ## Market Opportunities
-Blockchain for advertising will reach a plateau in 5-10 years*.  dApp growth will be unlimited.
+Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth will be unlimited.
 * *Hype Cycle for Digital Advertising, 2020 (Source: Gartner)
 
 ## Competition
