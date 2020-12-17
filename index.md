@@ -1,4 +1,4 @@
-## About dAasl
+## About DAASL
 Headquartered in Seattle Washington, DAASL is a decentralized blockchain based software-as-a-service company aiming to accelerate the growth of the dApp ecosystem. Besides software development and DevOps services for dApps running on RChain and other blockchains, DAASL provides a unique alternative to centralized surveillance advertising. Specifically, DAASL’s tokenized APIs multiply paths to dApp monetization and growth by delivering user preferred sponsored content, predictive analytics, and audited results.
 
 ## Problem
