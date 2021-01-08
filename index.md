@@ -84,6 +84,8 @@ Raise $10M
     </tr>
 </table>
 
+<br />
+
 RChain receives 5B DAASL tokens from DAASL in exchange for 15M DAASL shares.
 * US investors can only buy equity.
 
