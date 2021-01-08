@@ -51,18 +51,38 @@ Raise $10M
 ## Asset Allocation
 
 ### DAASL Tokens
-| DAASL Token Total Supply | 10 Billion
-| --- | --- |
-| DAASL | 5 Billion |
-| RChain | 5 Billion |
+<table>
+    <tr>
+        <td>DAASL Token Total Supply</td>
+        <td>10 Billion</td>
+    </tr>
+    <tr>
+        <td>DAASL</td>
+        <td>5 Billion</td>
+    </tr>
+    <tr>
+        <td>	RChain</td>
+        <td>5 Billion</td>
+    </tr>
+</table>
 
 <br />
 
 ### DAASL Shares
-| DAASL Total Shares | 25 Million |
-| --- | --- |
-| DAASL | 15 Million |
-| RChain | 10 Million |
+<table>
+    <tr>
+        <td>DAASL Token Total Shares</td>
+        <td>25 Billion</td>
+    </tr>
+    <tr>
+        <td>DAASL</td>
+        <td>15 Billion</td>
+    </tr>
+    <tr>
+        <td>	RChain</td>
+        <td>10 Billion</td>
+    </tr>
+</table>
 
 RChain receives 5B DAASL tokens from DAASL in exchange for 15M DAASL shares.
 * US investors can only buy equity.
