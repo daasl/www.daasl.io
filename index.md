@@ -37,8 +37,8 @@ We are a dedicated group of management professionals, with a proven track record
 * [Rao Bhamidipati - ](https://www.linkedin.com/in/vraobhamidipati/) Board Member
 
 ## Advisers
-* [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) Adviser/ Board Member
-* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Adviser/ Board Member
+* [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) Advisor/ Board Member
+* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Advisor/ Board Member
 
 ## Financing
 Raise $10M
@@ -77,15 +77,15 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 * Smaato
 
 ## Whitepaper
-[DAASL Whitepaper (draft)](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-DRAFT-v1.pdf)
+[DAASL Whitepaper (draft)](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-DRAFT-v2.pdf)
 
 
 ## Pitch Deck
-[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/RChain%20Presentation%20Nov%202020%20V2_1.pptx)
+[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/RChain%20Presentation%20Dec%202020%20V3.pptx)
 
 ## Contact
 invest@daasl.io
 
 
 ### **[daasl.io](https://daasl.io/)**</br>
-###### Copyright 2020 RChain Cooperative 
+###### Copyright 2021 RChain Cooperative 
