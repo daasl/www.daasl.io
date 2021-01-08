@@ -51,18 +51,18 @@ Raise $10M
 ## Asset Allocation
 
 ### DAASL Tokens
-| DAASL Token Total Supply | 10 Billion |
-| ------------- | ------------- |
-| DAASL  | 5 Billion |
-| RChain  | 5 Billion  |
+|DAASL Token Total Supply|10 Billion|
+|-|-|
+|DAASL|5 Billion|
+|RChain|5 Billion|
 
 </br>
 
 ### DAASL Shares
 | DAASL Total Shares | 25 Million |
-| ------------- | ------------- |
-| DAASL  | 15 Million |
-| RChain  | 10 Million  |
+|-|-|
+|DAASL|15 Million|
+|RChain|10 Million|
 
 RChain receives 5B DAASL tokens from DAASL in exchange for 15M DAASL shares.
 * US investors can only buy equity.
@@ -79,7 +79,6 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 ## Whitepaper
 [DAASL Whitepaper (draft)](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-DRAFT-v2.pdf)
 
-
 ## Pitch Deck
 [DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/RChain%20Presentation%20Dec%202020%20V3.pptx)
 
@@ -88,7 +87,4 @@ invest@daasl.io
 
 
 ### **[daasl.io](https://daasl.io/)**</br>
-###### Copyright 2021 RChain Cooperative 
-=======
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+###### Copyright 2021 RChain Cooperative
