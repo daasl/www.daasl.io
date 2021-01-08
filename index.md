@@ -106,5 +106,8 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 invest@daasl.io
 
 
-### **[daasl.io](https://daasl.io/)**</br>
+### **[daasl.io](https://daasl.io/)**
+
+<br />
+
 ###### Copyright 2021 RChain Cooperative
