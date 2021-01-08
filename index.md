@@ -51,8 +51,8 @@ Raise $10M
 ## Asset Allocation
 
 ### DAASL Tokens
-| DAASL Token Total Supply | 10 Billion |
-|---|---|
+| DAASL Token Total Supply | 10 Billion
+| --- | --- |
 | DAASL | 5 Billion |
 | RChain | 5 Billion |
 
@@ -60,7 +60,7 @@ Raise $10M
 
 ### DAASL Shares
 | DAASL Total Shares | 25 Million |
-|---|---|
+| --- | --- |
 | DAASL | 15 Million |
 | RChain | 10 Million |
 
