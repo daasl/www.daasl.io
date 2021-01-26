@@ -38,7 +38,7 @@ We are a dedicated group of management professionals, with a proven track record
 
 ## Advisers
 * [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) Advisor/ Board Member
-* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Advisor/ Board Member
+* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Advisor
 
 ## Financing
 Raise $10M
