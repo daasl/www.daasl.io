@@ -41,7 +41,7 @@ We are a dedicated group of management professionals, with a proven track record
 * [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Advisor
 
 ## Financing
-Raise $10M
+Raise $15M
 
 ## Investment Offer
 * Equity Shares
@@ -77,11 +77,15 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 * Smaato
 
 ## Whitepaper
-[DAASL Whitepaper (draft)](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-DRAFT-v2.pdf)
+[DAASL Whitepaper](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-v3.pdf)
 
 
 ## Pitch Deck
-[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/RChain%20Presentation%20Dec%202020%20V3.pptx)
+[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/DAASL%20Presentation%20Mar%202021%20V4.pdf)
+
+
+## One Pager
+[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v7.pdf)
 
 ## Contact
 invest@daasl.io
