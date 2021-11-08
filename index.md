@@ -31,13 +31,13 @@ For end users, we give back the power to control personal data. They have comple
 ## Team
 We are a dedicated group of management professionals, with a proven track record of successfully managing world class companies.
 
-* [Steve Ross-Talbot - ](https://www.linkedin.com/in/stever1/) CEO/ Board Member
+* [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) CEO/ Board Member
 * [Steve Henley - ](https://www.linkedin.com/in/stevehenley06/) Board Member
 * [Darryl Neudorf - ](https://www.linkedin.com/in/darryl-neudorf-1830077b/) Board Member
 * [Rao Bhamidipati - ](https://www.linkedin.com/in/vraobhamidipati/) Board Member
 
 ## Advisers
-* [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) Advisor/ Board Member
+
 * [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Advisor
 
 ## Financing
@@ -106,7 +106,7 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 
 
 ## One Pager
-[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v7.pdf)
+[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v9.pdf)
 
 ## Contact
 invest@daasl.io
