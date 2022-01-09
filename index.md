@@ -98,7 +98,7 @@ invest@daasl.io
 
 
 ### **[daasl.io](https://daasl.io/)**</br>
-###### Copyright 2021 RChain Cooperative 
+###### Copyright 2022 RChain Cooperative 
 =======
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
