@@ -32,7 +32,6 @@ For end users, we give back the power to control personal data. They have comple
 We are a dedicated group of management professionals, with a proven track record of successfully managing world class companies.
 
 * [Greg Meredith - ](https://www.linkedin.com/in/lucius-meredith-547645/) CEO/ Board Member
-* [Steve Ross-Talbot - ](https://www.linkedin.com/in/stever1/) Board Member
 * [Steve Henley - ](https://www.linkedin.com/in/stevehenley06/) Board Member
 * [Darryl Neudorf - ](https://www.linkedin.com/in/darryl-neudorf-1830077b/) Board Member
 * [Rao Bhamidipati - ](https://www.linkedin.com/in/vraobhamidipati/) Board Member
@@ -51,10 +50,10 @@ Raise $15M
 ## Asset Allocation
 
 ### DAASL Tokens
-| DAASL Token Total Supply | 10 Billion |
+| DAASL Token Total Supply | 1 Trillion |
 | ------------- | ------------- |
-| DAASL  | 5 Billion |
-| RChain  | 5 Billion  |
+| DAASL  | 500 Billion |
+| RChain  | 500 Billion  |
 
 </br>
 
@@ -64,7 +63,7 @@ Raise $15M
 | DAASL  | 15 Million |
 | RChain  | 10 Million  |
 
-RChain receives 5B DAASL tokens from DAASL in exchange for 15M DAASL shares.
+RChain receives 500B DAASL tokens from DAASL in exchange for 15M DAASL shares.
 * US investors can only buy equity.
 
 ## Market Opportunities
