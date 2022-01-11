@@ -54,15 +54,15 @@ Raise $15M
 <table>
     <tr>
         <td>DAASL Token Total Supply</td>
-        <td>10 Billion</td>
+        <td>1 Trillion</td>
     </tr>
     <tr>
         <td>DAASL</td>
-        <td>5 Billion</td>
+        <td>500 Billion</td>
     </tr>
     <tr>
         <td>	RChain</td>
-        <td>5 Billion</td>
+        <td>500 Billion</td>
     </tr>
 </table>
 
