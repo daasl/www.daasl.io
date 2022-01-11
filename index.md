@@ -116,4 +116,4 @@ invest@daasl.io
 
 <br />
 
-###### Copyright 2021 RChain Cooperative
+###### Copyright 2022 RChain Cooperative
