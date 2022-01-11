@@ -106,7 +106,7 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 
 
 ## One Pager
-[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v9.pdf)
+[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v10.pdf)
 
 ## Contact
 invest@daasl.io
