@@ -54,15 +54,15 @@ Raise $15M
 <table>
     <tr>
         <td>DAASL Token Total Supply</td>
-        <td>10 Billion</td>
+        <td>1 Trillion</td>
     </tr>
     <tr>
         <td>DAASL</td>
-        <td>5 Billion</td>
+        <td>500 Billion</td>
     </tr>
     <tr>
         <td>	RChain</td>
-        <td>5 Billion</td>
+        <td>500 Billion</td>
     </tr>
 </table>
 
@@ -86,7 +86,7 @@ Raise $15M
 
 <br />
 
-RChain receives 5B DAASL tokens from DAASL in exchange for 15M DAASL shares.
+RChain receives 500B DAASL tokens from DAASL in exchange for 15M DAASL shares.
 * US investors can only buy equity.
 
 ## Market Opportunities
@@ -99,14 +99,17 @@ Blockchain for advertising will reach a plateau in 5-10 years*.  DApp growth wil
 * Smaato
 
 ## Whitepaper
-[DAASL Whitepaper](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-v4.pdf)
+[DAASL Whitepaper](https://github.com/daasl/fundraising/blob/main/DAASL-Whitepaper-v6.pdf)
 
 ## Pitch Deck
-[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/DAASL%20Presentation%20Mar%202021%20V5.pdf)
+[DAASL Pitch Deck](https://github.com/daasl/fundraising/blob/main/DAASL%20Presentation%20Jan%202022%20V6.pptx.pdf)
 
 
 ## One Pager
-[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v9.pdf)
+[DAASL One Pager](https://github.com/daasl/fundraising/blob/main/DAASL-One-PagerEnglishFINAL-v10.pdf)
+
+## Bylaws
+[Bylaws](https://github.com/daasl/fundraising/blob/main/Bylaws%20-%20RSong%20Social%20Purpose%20Corp.%2C%204834-5082-5098%20v.1.doc.pdf)
 
 ## Contact
 invest@daasl.io
@@ -116,4 +119,4 @@ invest@daasl.io
 
 <br />
 
-###### Copyright 2021 RChain Cooperative
+###### Copyright 2022 RChain Cooperative
