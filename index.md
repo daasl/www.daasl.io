@@ -72,15 +72,15 @@ Raise $15M
 <table>
     <tr>
         <td>DAASL Token Total Shares</td>
-        <td>25 Billion</td>
+        <td>25 Million</td>
     </tr>
     <tr>
         <td>DAASL</td>
-        <td>15 Billion</td>
+        <td>15 Million</td>
     </tr>
     <tr>
         <td>	RChain</td>
-        <td>10 Billion</td>
+        <td>10 Million</td>
     </tr>
 </table>
 
