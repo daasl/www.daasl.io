@@ -38,7 +38,7 @@ We are a dedicated group of management professionals, with a proven track record
 
 ## Advisers
 
-* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Advisor
+* [Ian Bloom - ](https://www.linkedin.com/in/ian-bloom-5676315/) Adviser
 
 ## Financing
 Raise $15M
